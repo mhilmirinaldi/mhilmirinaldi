@@ -1,4 +1,4 @@
-# Hi there, I'm Mohamad Hilmi Rinaldi 👋
+# Hi there, I'm Hilmi 👋
 An undergraduate student of informatics with a passion for programming, particularly in web development and database management. I am always eager to learn new things and take on challenges related to these fields to expand my knowledge and skills.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mhilmimrinaldi) 
